@@ -62,7 +62,7 @@
                 <div class="sidebar-header">
                     <div class="d-flex justify-content-between">
                         <div class="logo">
-                            <a href="/index.html"><img src="/assets/images/logo/logo.png" alt="Logo" style="width:200px; height: 50px;"></a>
+                            <a href="/index.php"><img src="/assets/images/logo/logo.png" alt="Logo" style="width:200px; height: 50px;"></a>
                         </div>
                         <div class="toggler">
                             <a href="#" class="sidebar-hide d-xl-none d-block"><i class="bi bi-x bi-middle"></i></a>
@@ -74,7 +74,7 @@
                         <!-- <li class="sidebar-title">메뉴</li>
 
                         <li class="sidebar-item active ">
-                            <a href="index.html" class='sidebar-link'>
+                            <a href="index.php" class='sidebar-link'>
                                 <i class="bi bi-grid-fill"></i>
                                 <span>Home</span>
                             </a>
