@@ -114,7 +114,7 @@
 
     <script src="/assets/js/main.js"></script>
     <script>
-        let data = {"메뉴": {"Home" : "home.html","TimeTable" : "timetable.html","Schedule" : "schedule.html"},"도움이 필요하세요?" : {"문의하기" : "ask.html","버그 제보하기" : "bug.html"}};
+        let data = {"메뉴": {"Home" : "home.html","TimeTable" : "timetable.html","Schedule" : "schedule.html"},"도움이 필요하세요?" : {"문의하기" : "ask.html"}};
         let sidebarRow = document.getElementById('sidebarRender');
         for(let i = 0; i < Object.keys(data).length; i++){
             // title : console.log(Object.keys(data)[i]);
